@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Erisura
-- 👀 I’m interested in Machine Learning and Natural Language Processing
-- 🌱 I’m currently learning Computer Science in BIT
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at erisura@yeah.net
+- 👋👋👋 Hi, I’m @Erisura👋👋👋
+- 👀 I’m interested in Machine Learning and Natural Language Processing👀
+- 🌱 I’m currently learning Computer Science📫
+- 📫 You can reach me at erisura@yeah.net🌱
 
 <!---
 Erisura/Erisura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
