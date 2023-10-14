@@ -1,4 +1,4 @@
 - 👋👋👋 Hi, I’m @Erisura👋👋👋
-- 👀 Interested in Machine Learning and Natural Language Processing👀
+- 👀 Interested in Machine Learning and AIGC👀
 - 🌱 Currently learning Computer Science📫
 
